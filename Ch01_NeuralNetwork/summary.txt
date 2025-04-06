@@ -1,0 +1,50 @@
+# Summary of Ch01_NeuralNetwork Directory
+
+## Jupyter Notebooks
+- 00.安裝測試基本套件.ipynb
+- 01.perceptron.ipynb
+- 02.sigmoid.ipynb
+- 03.MP.ipynb
+- 04.MLP_clf.ipynb
+- 05.activationFunction.ipynb
+- 06.MSE.ipynb
+- 07.cross_entropy_loss.ipynb
+- 08.SVM_乳癌診斷預測.ipynb
+- 09.手寫阿拉伯數字辨識.ipynb
+- 10.MLP_clf02.ipynb
+- 11.MLP_clf_optimizer.ipynb
+- 12.梯度消失_爆炸.ipynb
+- 13.學習速率排程.ipynb
+- 14.nn_codeDemo01.ipynb
+- 15.nn_codeDemo02.ipynb
+- FashionMnist.ipynb
+- MLP_reg.ipynb
+- gd1.ipynb
+- tf_lr_finder.ipynb
+- 正向傳導_模擬.ipynb
+
+## Images
+- 801.png
+- 901.png
+
+### Subfolder: imgs
+- 9_small.png
+- 9.png
+- 各種GD.gif
+- 各種GD02.gif
+
+### Subfolder: myDigits
+- 0.png
+- 1.png
+- 2.png
+- 3.png
+- 4.png
+- 5.png
+- 6.png
+- 7.png
+- 8.png
+- 9.png
+
+## Other Files
+- Ch01_神經網路.pdf
+- lr_finder.py
